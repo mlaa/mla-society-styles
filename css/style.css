@@ -21,3 +21,7 @@
 .society-mla #center-homepage .widget h4 {
   background-color: #034a51;
 }
+
+.logged-in #text-14 {
+  display: none;
+}
