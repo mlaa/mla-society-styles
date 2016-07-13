@@ -26,6 +26,6 @@
   background-color: #034a51;
 }
 
-.logged-in #text-14 {
+.logged-in .hide-if-logged-in {
   display: none;
 }
