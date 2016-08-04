@@ -27,6 +27,6 @@
 }
 
 .logged-in .hide-if-logged-in,
-.active-session .non-member .hide-if-active-session {
+.active-session.non-member .hide-if-active-session {
   display: none;
 }
