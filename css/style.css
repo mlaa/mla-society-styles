@@ -26,6 +26,7 @@
   background-color: #034a51;
 }
 
-.logged-in .hide-if-logged-in {
+.logged-in .hide-if-logged-in,
+.active-session .non-member .hide-if-active-session {
   display: none;
 }
